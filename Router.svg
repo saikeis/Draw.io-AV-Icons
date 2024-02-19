@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 109.13 21.16">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <path class="cls-1" d="M28.11,4.08v2h14.33v-2h-14.33Z"/>
+        <path class="cls-1" d="M40.44,4.08v2h14.62v-2h-14.62ZM42.44,4.08v2h10.62v-2h-10.62Z"/>
+        <path class="cls-1" d="M28.11,4.08v13h14.33V4.08h-14.33ZM40.44,15.08h-10.33V6.08h10.33v9Z"/>
+        <path class="cls-1" d="M53.06,4.08v2h14.63v-2h-14.63ZM55.06,4.08v2h10.63v-2h-10.63Z"/>
+        <path class="cls-1" d="M53.06,4.08v13h14.63V4.08h-14.63ZM65.69,15.08h-10.63V6.08h10.63v9Z"/>
+        <path class="cls-1" d="M65.69,4.08v2h15.33v-2h-15.33Z"/>
+        <path class="cls-1" d="M40.44,4.08v13h14.62V4.08h-14.62ZM53.06,15.08h-10.62V6.08h10.62v9Z"/>
+        <path class="cls-1" d="M65.69,4.08v13h15.33V4.08h-15.33ZM79.02,15.08h-11.33V6.08h11.33v9Z"/>
+      </g>
+      <path class="cls-1" d="M109.13,21.16H0V0h109.13v21.16ZM.99,19.53h107.15V1.63H.99v17.9Z"/>
+    </g>
+  </g>
+</svg>
